@@ -6,7 +6,7 @@ AutoTyper es una app Android que escribe automáticamente texto desde un archivo
 
 ## 📱 info
 
-<p align=center><a href="https://github.com/DarkAMLC/autotyper/blob/main/info/img1.png" target="_blank"> <img src="info/img1.png"/></a></p>
+<p align=center><a href="https://www.mediafire.com/view/2bf9zxcd10b0482" target="_blank"><img src="https://www.mediafire.com/view/2bf9zxcd10b0482"/></a></p>
 ---
 
 ## 🎥 mini tutorial
